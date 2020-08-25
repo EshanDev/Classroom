@@ -1,0 +1,9 @@
+.main-container{
+    transition: all .4s ease;
+    &.isOpen{
+        margin-left: 275px;
+        nav{
+            margin-left: 275px;
+        }
+    }
+}
