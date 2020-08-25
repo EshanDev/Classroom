@@ -20,8 +20,9 @@
     transform: translate3d(-270px, 0, 0); }
   .sidebar .content .sidebar-header {
     background-color: #f8f9fa;
-    padding: 6px;
-    margin-bottom: 5px; }
+    padding: 5px;
+    margin-bottom: 5px;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important; }
     .sidebar .content .sidebar-header h3 {
       padding-top: 5px; }
 

@@ -15,11 +15,12 @@
     .content{
         .sidebar-header{
             background-color: #f8f9fa;
-            padding: 6px;
+            padding: 5px;
             margin-bottom: 5px;
             h3{
                 padding-top: 5px;
             }
+            box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
         }
     }
 }
